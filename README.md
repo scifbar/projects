@@ -6,10 +6,13 @@ Some discussions do not end with the write-up. They turn into a prototype: a sma
 thing that a participant can put in front of their colleagues and correct. This repo is the
 public list of those prototypes.
 
-Each project lives in its own private repository under the scifbar organization. Everyone can
-see here that a project exists, who it is for and what question it is trying to answer. Only
-the people working on a project have access to its repository. As a project grows, people
-from the scifbar community are invited in as contributors.
+Each project lives in its own private repository under the scifbar organization. Only the
+people working on a project have access to its repository. As a project grows, people from the
+scifbar community are invited in as contributors.
+
+This list is opt-in and incomplete. A project appears here only when the people involved have
+agreed to be listed, and some projects are never listed at all. The absence of a project from
+this page says nothing about whether it exists.
 
 ## How a project starts
 
@@ -28,8 +31,7 @@ like that, like this". That is the point.
 |---|---|---|---|---|
 | (none listed yet) | | | | |
 
-Rows are added when the people involved agree to be listed. A project can be listed under a
-working name only.
+A project can be listed under a working name only, with the "for" column left blank.
 
 ## Access
 
